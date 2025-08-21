@@ -1,0 +1,91 @@
+No	unit	文番号	単語	品詞	意味1(文脈)	意味2(代表義)	意味3(その他)	分類
+1	3A	AG-5	movie	n	映画			
+2	3A	AG-5	twice	adv	2回			
+3	3A	AG-9	know	v	知っている	(過去分詞)known		
+4	3A	AG-12	rain	v	雨が降る			
+5	3A	AG-15	already	adv	すでに			
+6	3A	AG-15	finish	v	〜を終える			
+7	3A	AG-15	homework	n	宿題			
+8	3A	AG-16	math	n	数学			
+9	3A	AG-19	yesterday	adv	昨日			
+10	3A	AG-19	leave	v	〜を置き忘れる	〜を去る	(過去形/過去分詞)left	
+11	3A	LR1-1	morning	n	朝			
+12	3A	LR1-1	house	n	家			
+13	3A	LR1-1	Kaunas	n	カウナス			[固有名詞][地名]
+14	3A	LR1-1	Lithuania	n	リトアニア			[固有名詞][国名]
+15	3A	LR1-2	outside	adv	外に			
+16	3A	LR1-3	wife	n	妻			
+17	3A	LR1-4	Poland	n	ポーランド			[固有名詞][国名]
+18	3A	LR1-4	Jewish	adj	ユダヤ人の			
+19	3A	LR1-4	escape	v	逃げる			
+20	3A	LR1-4	Nazi	n	ナチス党員	the Nazis:ナチス		
+21	3A	LR1-5	issue	v	（ビザなどを）発給する			
+22	3A	LR1-5	visa	n	ビザ、査証			
+23	3A	LR1-6	safe	adj	安全な			
+24	3A	LR1-7	need	v	〜を必要とする			
+25	3A	LR1-10	permission	n	許可			
+26	3A	LR1-10	refuse	v	〜を拒否する			
+27	3A	LR1-10	foreign	adj	外国の			
+28	3A	LR1-10	ministry	n	省			
+29	3A	LR1-11	try	v	試す			
+30	3A	LR1-11	receive	v	〜を受け取る			
+31	3A	LR1-11	same	adj	同じ			
+32	3A	LR1-14	know	v	知っている	(過去形)knew		
+33	3A	LR1-14	risk	n	危険、リスク			
+34	3A	LR1-14	agree	v	同意する			
+35	3A	LR1-15	support	v	〜を支援する、支える			
+36	3A	LR1-17	short	adj	短い			
+37	3A	LR1-17	silence	n	沈黙			
+38	3A	LR1-17	cry	n	叫び声	泣くこと		
+39	3A	LR1-18	write	v	書く	(過去形)wrote		
+40	3A	LR1-19	hand	n	手			
+41	3A	LR1-20	smile	v	微笑む			
+42	3A	LR1-20	wheel	n	車輪			
+43	3A	LR1-22	fight	v	戦う			
+44	3A	LR1-24	luck	n	運、幸運			
+45	3A	LR1-25	telegram	n	電報			
+46	3A	LR1-25	close	v	〜を閉める			
+47	3A	LR1-25	office	n	事務所			
+48	3A	LR1-25	Berlin	n	ベルリン			[固有名詞][地名]
+49	3A	LR1-26	leave for ~	v	〜へ向けて出発する			
+50	3A	LR1-27	follow	v	〜についていく			
+51	3A	LR1-27	platform	n	プラットフォーム			
+52	3A	LR1-28	continue	v	〜を続ける			
+53	3A	LR1-28	even	adv	〜でさえ			
+54	3A	LR1-28	train	n	電車			
+55	3A	LR1-29	window	n	窓			
+56	3A	LR1-30	bell	n	ベル			
+57	3A	LR1-30	ring	v	鳴る	(過去形)rang		
+58	3A	LR1-30	move	v	動く			
+59	3A	LR1-31	tear	n	涙			
+60	3A	LR1-31	eye	n	目			
+61	3A	LR1-32	forgive	v	〜を許す			
+62	3A	LR1-33	pray	v	祈る			
+63	3A	LR1-33	safety	n	安全			
+64	3A	LR1-35	forget	v	〜を忘れる	(過去分詞)forgotten		
+65	3A	LR1-36	end	v	終わる			
+66	3A	LR1-37	trader	n	貿易商			
+67	3A	LR1-39	Israeli	adj	イスラエルの			
+68	3A	LR1-39	diplomat	n	外交官			
+69	3A	LR1-40	paper	n	紙			
+70	3A	LR1-42	remember	v	〜を覚えている			
+71	3A	LR1-44	save	v	〜を救う	〜を節約する		
+72	3A	LR1-44	total	adj	合計の			
+73	3A	YC-1	uniform	n	制服			
+74	3A	YC-2	student	n	生徒			
+75	3A	YC-4	cute	adj	かわいい			
+76	3A	YC-6	convenient	adj	便利な			
+77	3A	YC-8	sometimes	adv	時々			
+78	3A	YC-8	choose	v	〜を選ぶ			
+79	3A	YC-8	own	adj	自分自身の			
+80	3A	YC-8	clothes	n	服			
+81	3A	YC-9	attractive	adj	魅力的な			
+82	3A	YC-11	nap	n	昼寝			
+83	3A	YC-12	Taiwan	n	台湾			[固有名詞][地名]
+84	3A	YC-14	difference	n	違い			
+85	3A	YC-15	sleep	n	睡眠	(v)眠る		
+86	3A	YC-15	lunch	n	昼食			
+87	3A	YC-16	desk	n	机			
+88	3A	YC-18	health	n	健康			
+89	3A	YC-20	relax	v	リラックスする			
+90	3A	YC-22	against	prep	〜に反対して			

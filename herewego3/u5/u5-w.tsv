@@ -1,0 +1,155 @@
+No	Unit	文番号	単語	品詞	意味1(文脈)	意味2(代表義)	意味3(その他)	分類
+1	5	5-I-1	dream	n	夢			
+2	5	5-I-1	future	n	未来、将来			
+3	5	5-I-2	have	v	〜を持っている			
+1	5	5-1-1	today	adv	今日			
+2	5	5-1-1	make	v	〜をする	〜を作る		
+3	5	5-1-1	suggestion	n	提案			
+4	5	5-1-1	contest	n	コンテスト、競争			
+5	5	5-1-2	choose	v	〜を選ぶ			
+6	5	5-1-2	fair	adj	公正な、公平な			
+7	5	5-1-2	trade	n	貿易、取引			
+8	5	5-1-2	product	n	製品			
+9	5	5-1-3	explain	v	〜を説明する			
+10	5	5-1-3	reason	n	理由			
+11	5	5-1-4	cotton	n	綿、コットン			
+12	5	5-1-4	mainly	adv	主に			
+13	5	5-1-4	produce	v	〜を生産する	(過去分詞)produced	
+14	5	5-1-4	develop	v	〜を発展させる	(-ing形)developing	
+15	5	5-1-4	country	n	国			
+16	5	5-1-5	farmer	n	農家、農業経営者			
+17	5	5-1-5	receive	v	〜を受け取る			
+18	5	5-1-5	little	adj	ほとんどない	少しの		
+19	5	5-1-5	income	n	収入			
+20	5	5-1-5	company	n	会社			
+21	5	5-1-5	buy	v	〜を買う			
+22	5	5-1-5	low	adj	低い			
+23	5	5-1-5	price	n	価格			
+24	5	5-1-5	clothes	n	服			
+25	5	5-1-5	cheaply	adv	安く			
+26	5	5-1-6	help	v	〜を助ける			
+27	5	5-1-7	way	n	方法	道		
+28	5	5-1-7	solve	v	〜を解決する			
+29	5	5-1-7	problem	n	問題			
+30	5	5-1-8	look	v	見る			
+31	5	5-1-8	picture	n	写真、絵			
+32	5	5-1-8	find	v	〜を見つける	(過去形)found	
+33	5	5-1-9	earn	v	（お金）を稼ぐ			
+34	5	5-1-9	enough	adv	十分に			
+35	5	5-1-9	money	n	お金			
+36	5	5-1-9	live	v	生きる、生活する			
+37	5	5-1-10	sustainable	adj	持続可能な			
+38	5	5-1-10	system	n	システム、仕組み			
+39	5	5-1-10	production	n	生産			
+40	5	5-1-11	start	v	〜を始める			
+41	5	5-1-11	change	v	〜を変える			
+42	5	5-1-11	world	n	世界			
+43	5	5-1-11	smart	adj	賢い			
+44	5	5-1-11	choice	n	選択			
+45	5	5-2-2	presentation	n	プレゼンテーション			
+46	5	5-2-2	give	v	（発表など）を行う	〜を与える	(過去形)gave	
+47	5	5-2-2	great	adj	素晴らしい、偉大な			
+48	5	5-2-4	impress	v	〜に感銘を与える	(過去分詞)impressed	
+49	5	5-2-5	interest	v	〜に興味を持たせる	(過去分詞)interested	
+50	5	5-2-6	aunt	n	おば			
+51	5	5-2-6	run	v	〜を経営する	走る	(三単現)runs	
+52	5	5-2-6	shop	n	店			
+53	5	5-2-7	sell	v	〜を売る	(三単現)sells	
+54	5	5-2-7	accessory	n	アクセサリー			
+55	5	5-2-8	work	n	仕事			
+56	5	5-2-8	directly	adv	直接に			
+57	5	5-2-8	affect	v	〜に影響を与える	(三単現)affects	
+58	5	5-2-8	life	n	生活、人生	(複数形)lives	
+59	5	5-2-8	producer	n	生産者			
+60	5	5-2-8	distant	adj	遠い			
+61	5	5-2-9	say	v	〜と言う	(三単現)says	
+62	5	5-2-9	job	n	仕事			
+63	5	5-2-9	challenging	adj	やりがいのある、困難な			
+64	5	5-2-9	rewarding	adj	報われる、満足感のある			
+65	5	5-2-10	cool	adj	かっこいい、素敵な			
+66	5	5-2-10	person	n	人			
+67	5	5-2-10	admire	v	〜を尊敬する			
+68	5	5-2-11	want	v	〜が欲しい、〜したい			
+69	5	5-2-12	sure	adj	確信して			
+70	5	5-2-14	keep	v	〜し続ける			
+71	5	5-2-14	play	v	（スポーツ）をする			
+72	5	5-2-14	become	v	〜になる			
+73	5	5-2-14	professional	adj	プロの			
+74	5	5-2-14	player	n	選手			
+75	5	5-2-15	watch	v	〜を（じっと）見る			
+76	5	5-3-3	past	adj	過去の			
+77	5	5-3-3	year	n	年			
+78	5	5-3-3	memorable	adj	記憶に残る			
+79	5	5-3-3	experience	n	経験			
+80	5	5-3-4	particular	adj	特定の	(副詞句)in particular	
+81	5	5-3-4	meet	v	〜に会う	(-ing形)meeting	
+82	5	5-3-4	get	v	〜になる、得る	(-ing形)getting	
+83	5	5-3-4	know	v	〜を知る			
+84	5	5-3-4	eye-opener	n	目を開かせるもの			
+85	5	5-3-5	learn	v	〜を学ぶ	(過去形)learned	
+86	5	5-3-5	viewpoint	n	視点、見地			
+87	5	5-3-5	wheelchair	n	車椅子			
+88	5	5-3-7	puppy	n	子犬			
+89	5	5-3-7	walker	n	歩く人			
+90	5	5-3-8	both	adv	両方			
+91	5	5-3-8	joy	n	喜び			
+92	5	5-3-8	responsibility	n	責任			
+93	5	5-3-8	care	v	世話をする	(-ing形)caring	
+94	5	5-3-9	feel	v	〜と感じる			
+95	5	5-3-9	open	adj	開かれた			
+96	5	5-3-9	new	adj	新しい			
+97	5	5-3-11	something	prn	何か			
+98	5	5-3-12	might	aux	〜かもしれない			
+99	5	5-3-12	lead	v	〜につながる			
+100	5	5-3-12	career	n	経歴、キャリア			
+101	5	5-G-1	education	n	教育			
+102	5	5-G-1	Africa	n	アフリカ			[固有名詞][地名]
+103	5	5-G-2	first	adv	第一に			
+104	5	5-G-2	poverty	n	貧困			
+105	5	5-G-3	instead	adv	代わりに			
+106	5	5-G-3	go	v	行く			
+107	5	5-G-3	school	n	学校			
+108	5	5-G-3	housework	n	家事			
+109	5	5-G-4	graph	n	グラフ			
+110	5	5-G-4	show	v	〜を示す	(三単現)shows	
+111	5	5-G-4	percentage	n	割合、パーセンテージ			
+112	5	5-G-4	child	n	子ども	(複数形)children	
+113	5	5-G-4	region	n	地域			
+114	5	5-G-5	large	adj	大きい			
+115	5	5-G-5	Sub-Saharan	adj	サハラ砂漠以南の			
+116	5	5-G-8	marriage	n	結婚			
+117	5	5-G-9	quickly	adv	速く			
+118	5	5-G-11	gap	n	差、隔たり			
+119	5	5-G-16	marry	v	〜と結婚する			
+120	5	5-G-16	under	prep	〜未満で、〜の下に			
+121	5	5-G-16	age	n	年齢			
+122	5	5-DL4-1	Bali	n	バリ島			[固有名詞][地名]
+123	5	5-DL4-2	campaign	n	キャンペーン、活動			
+124	5	5-DL4-2	recycle	v	〜をリサイクルする			
+125	5	5-DL4-2	plastic	n	プラスチック			
+126	5	5-DL4-3	against	prep	〜に反対して			
+127	5	5-DL4-3	bag	n	袋、バッグ			
+128	5	5-C-1	much	adv	たくさん			
+129	5	5-C-1	Korean	adj	韓国の			
+130	5	5-C-1	culture	n	文化			
+131	5	5-C-2	cushion	n	クッション			
+132	5	5-C-2	use	v	〜を使う			
+133	5	5-C-4	recommend	v	〜を推薦する、勧める			
+134	5	5-C-5	comic book	n	漫画本			
+135	5	5-C-7	adventure	n	冒険			
+136	5	5-C-7	story	n	物語			
+137	5	5-C-7	pirate	n	海賊			
+138	5	5-C-7	sail	v	航海する			
+139	5	5-C-7	sea	n	海			
+140	5	5-C-7	treasure	n	宝物			
+141	5	5-C-8	anything	prn	何か			
+142	5	5-C-9	try	v	〜を試す			
+143	5	5-C-9	study	v	〜を勉強する	(-ing形)studying	
+144	5	5-C-9	Spanish	n	スペイン語			
+145	5	5-C-10	language	n	言語			
+146	5	5-C-10	movie	n	映画			
+147	5	5-C-10	understand	v	〜を理解する			
+148	5	5-C-10	word	n	言葉			
+149	5	5-C-10	favorite	adj	お気に入りの			
+150	5	5-C-10	actor	n	俳優			
+151	5	5-C-10	speak	v	〜を話す			

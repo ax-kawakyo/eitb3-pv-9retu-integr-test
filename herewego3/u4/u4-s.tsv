@@ -1,0 +1,63 @@
+No	unit	文番号	英文	日訳	キー文法1	キー文法2	キー文法3	備考
+1	4	4-H-1	What happened?	何が起こりましたか？	疑問詞(What)			
+2	4	4-H-2	Hurricane Maria hit Puerto Rico.	ハリケーン・マリアがプエルトリコを襲いました。				
+3	4	4-H-3	He started to raise (money) for solar lamps and hand-powered washing machines.	彼は太陽光ランプと手動洗濯機のためにお金を集め始めました。	start to do	for (目的)		
+4	4	4-H-4	He received the "President's Environmental Youth Award" in (2019).	彼は2019年に「大統領環境ユース賞」を受賞しました。				
+5	4	4-H-5	Another hurricane hit Puerto Rico in 2022.	2022年、別のハリケーンがプエルトリコを襲いました。				
+6	4	4-H-6	He restarted the project and helped (people) again.	彼はそのプロジェクトを再開し、再び人々を助けました。				
+7	4	4-H-7	The Syrian civil war started in (2011).	シリア内戦は2011年に始まりました。				
+8	4	4-H-8	She had to flee Syria.	彼女はシリアから逃げなければなりませんでした。	have to do (過去形)			
+9	4	4-H-9	She brought her (books) with her.	彼女は本を持っていきました。				
+10	4	4-H-10	She moved to a refugee camp in Jordan.	彼女はヨルダンの難民キャンプへ移りました。				
+11	4	4-H-11	She started to tell adults about the importance of education.	彼女は大人たちに教育の重要性について語り始めました。	start to do	tell A about B		
+12	4	4-H-12	She became the (youngest) Hoodwill Ambassador of UNICEF.	彼女はユニセフの最年少親善大使になりました。	最上級			
+13	4	4-H-13	Do you use any AI devices in your daily life?	あなたは日常生活で何かAI機器を使いますか？	doの疑問文			
+14	4	4-H-14	What opinion does Kota have about AI?	コウタはAIについてどのような意見を持っていますか？	疑問詞(What)	doの疑問文		
+15	4	4-1-1	On a website:	ウェブサイトにて：	(場面)			
+16	4	4-1-2	AI technology has made great progress lately.	AI技術は最近、大きな進歩を遂げました。	現在完了形(完了)	make progress		
+17	4	4-1-3	It has become a part of our daily lives.	それは私たちの日常生活の一部になっています。	現在完了形(結果)	become C		
+18	4	4-1-4	For example, internet search engines use AI technology.	例えば、インターネットの検索エンジンはAI技術を使っています。				
+19	4	4-1-5	Smartphones which respond to voice commands are common these days.	音声コマンドに応答するスマートフォンは、最近では一般的です。	関係代名詞(which)			
+20	4	4-1-6	Robots which automatically clean your house have become popular.	あなたの家を自動的に掃除するロボットが人気になっています。	関係代名詞(which)	現在完了形(結果)		
+21	4	4-1-7	These all use AI technology.	これらはすべてAI技術を使っています。				
+22	4	4-1-8	Translation software also uses AI technology.	翻訳ソフトウェアもAI技術を使っています。	also			
+23	4	4-1-9	It can come up with the best translation by using AI technology.	それはAI技術を使うことによって、最良の翻訳を思いつくことができます。	can	come up with ~	by -ing	
+24	4	4-1-10	It is becoming common.	それは一般的になりつつあります。	現在進行形			
+25	4	4-1-11	In the near future, AI will help us communicate with people all over the world quite easily.	近い将来、AIは私たちが世界中の人々と非常に簡単にコミュニケーションをとるのを助けるでしょう。	will	help O do		
+26	4	4-2-1	Today's discussion topic is AI technology for our future.	今日のディスカッションのトピックは、私たちの未来のためのAI技術です。				
+27	4	4-2-2	If you can use translation software, do you still need to learn foreign languages in school?	もし翻訳ソフトが使えるなら、それでも学校で外国語を学ぶ必要はありますか？	if (接続詞)	need to do		
+28	4	4-2-3	Kota's discussion group:	コウタのディスカッショングループ：	(場面)			
+29	4	4-2-4	I think translation software is very useful.	私は翻訳ソフトはとても役立つと思います。	think (that) S V			
+30	4	4-2-5	I have an uncle who runs a Japanese restaurant.	私には日本食レストランを経営しているおじがいます。	関係代名詞(who)			
+31	4	4-2-6	He's not good at speaking English, so he uses a translation device to communicate with foreign customers.	彼（おじ）は英語を話すのが得意ではないので、外国人客とコミュニケーションをとるために翻訳機を使っています。	be good at -ing	so	to不定詞(副詞的用法)	
+32	4	4-2-7	In my opinion, AI devices can help with many languages, so learning foreign languages will not be so important anymore.	私の意見では、AI機器は多くの言語を手助けできるので、外国語を学ぶことはもはやそれほど重要ではなくなるでしょう。	will not	-ing (動名詞主語)	not ~ anymore	
+33	4	4-2-8	Kota has a good point, but I think learning foreign languages is still important.	コウタの言うことにも一理ありますが、私は外国語を学ぶことは依然として重要だと思います。	but	think (that) S V		
+34	4	4-2-9	I don't always want to rely on a machine to communicate with people.	私は人々とコミュニケーションをとるのに、いつも機械に頼りたいとは思いません。	部分否定(not always)	want to do		
+35	4	4-3-1	Can I say something?	何か言ってもいいですか？	can I ~?			
+36	4	4-3-2	Go ahead, Eri.	どうぞ、エリ。	(口語表現)			
+37	4	4-3-3	I think I agree with Hajin.	私はハジンに賛成だと思います。	think (that) S V	agree with ~		
+38	4	4-3-4	I also enjoy communicating in English, so I want to study more.	私も英語でコミュニケーションをとることを楽しんでいるので、もっと勉強したいです。	enjoy -ing	so	want to do	
+39	4	4-3-5	How about you, Tina?	ティナ、あなたはどうですか？	How about ~?			
+40	4	4-3-6	I think Kota is right.	コウタは正しいと思います。	think (that) S V			
+41	4	4-3-7	Like his uncle, we'll use AI devices more, and that'll be convenient for us.	彼のおじのように、私たちはもっとAI機器を使うようになるでしょうし、それは私たちにとって便利になるでしょう。	like (前置詞)	will (we'll)		
+42	4	4-3-8	On the other hand, I also agree with Hajin and Eri's opinion.	その一方で、私はハジンとエリの意見にも賛成です。	On the other hand			
+43	4	4-3-9	Learning a language is a valuable experience that will help us broaden our world view.	言語を学ぶことは、私たちの世界観を広げるのに役立つ貴重な経験です。	関係代名詞(that)	-ing (動名詞主語)	help O do	
+44	4	4-3-10	Learning each other's language and culture helps us get a better understanding of each other, too.	お互いの言語と文化を学ぶことは、私たちがお互いをよりよく理解するのを助けてもくれます。	-ing (動名詞主語)	help O do		
+45	4	4-3-11	OK, I think everyone had valuable opinions to share.	はい、皆が共有すべき貴重な意見を持っていたと思います。	to不定詞(形容詞的用法)			
+46	4	4-3-12	Thank you for sharing them.	それらを共有してくれてありがとう。	Thank you for -ing			
+47	4	4-G-1	We should still learn foreign languages to speak directly with people from other countries.	私たちは他の国の人々と直接話すために、依然として外国語を学ぶべきです。	should	to不定詞(副詞的用法)		
+48	4	4-G-2	I think it helps us understand each other better.	それは私たちが互いをよりよく理解するのを助けると思います。	think (that) S V	help O do		
+49	4	4-G-3	I would hate to be someone who always depends on machines.	私は常に機械に頼るような人にはなりたくないです。	関係代名詞(who)	would like to do	depend on ~	
+50	4	4-G-4	We students don't need to learn foreign languages anymore.	私たち生徒は、もはや外国語を学ぶ必要はありません。	need to do	not ~ anymore		
+51	4	4-G-5	First, now we can communicate with AI tools which translate various languages.	第一に、今や私たちは様々な言語を翻訳するAIツールでコミュニケーションがとれます。	can	関係代名詞(which)		
+52	4	4-G-6	Second, there are already too many things for us to learn.	第二に、私たちが学ぶべきことがすでに多すぎます。	too ~ to ... (It is for A to do Bの変形)			
+53	4	4-G-7	Learning English takes too much time.	英語を学ぶことは時間がかかりすぎます。	-ing (動名詞主語)	take time		
+54	4	4-G-8	In my country, students need more free time.	私の国では、生徒はもっと自由な時間が必要です。	need			
+55	4	4-G-9	I've been learning English for five years.	私は5年間英語を学んでいます。	現在完了進行形	for(期間)		
+56	4	4-G-10	It's a valuable experience for me because it made me more positive toward people who have different cultures.	それは私にとって貴重な経験です、なぜならそれは私を異なる文化を持つ人々に対してより前向きにしてくれたからです。	make O C			
+57	4	4-G-11	On the other hand, I'm not sure it's necessary for everyone.	その一方で、それが全ての人にとって必要かどうかはわかりません。	be not sure (that) S V			
+58	4	4-G-12	Not all of us are interested in learning languages.	私たちの全員が言語を学ぶことに興味があるわけではありません。	部分否定(not all)	be interested in ~		
+59	4	4-G-13	Sometimes it may be better for us to enjoy speaking with AI tools.	時にはAIツールで話すのを楽しむ方が私たちにとって良いかもしれません。	It may be ~ for A to do B			
+60	4	4-G-14	Learning foreign languages is not just for communication.	外国語を学ぶことは、ただコミュニケーションのためだけではありません。	not just ~			
+61	4	4-G-15	It helps us understand our own language and culture better, so we should keep learning them.	それは私たちが自分自身の言語と文化をよりよく理解するのを助けるので、私たちはそれらを学び続けるべきです。	so	should	keep -ing	
+62	4	4-G-16	I remember the famous words of Goethe: "Those who know nothing of foreign languages know nothing of their own."	私はゲーテの有名な言葉を覚えています。「外国語について何も知らない者は、自国語についても何も知らない」。	those who ~	know nothing of ~		

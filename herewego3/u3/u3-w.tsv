@@ -1,0 +1,100 @@
+No	unit	文番号	単語	品詞	意味1(文脈)	意味2(代表義)	意味3(その他)	分類
+1	3	3-H-1	lesson	n	教訓	授業		
+2	3	3-H-2	learn	v	〜を学ぶ			
+3	3	3-H-3	monument	n	記念碑、記念建造物			
+4	3	3-H-4	thank	v	〜に感謝する			
+5	3	3-H-4	call	v	電話をかける	〜を呼ぶ	(-ing形)calling	
+6	3	3-H-6	bring	v	〜を持ってくる			
+7	3	3-1-1	atomic	adj	原子の			
+8	3	3-1-1	bomb	n	爆弾			
+9	3	3-1-1	dome	n	ドーム			
+10	3	3-1-2	world	n	世界			
+11	3	3-1-2	drop	v	〜を落とす			(過去分詞)dropped
+12	3	3-1-3	be	v	〜である	〜になる	(過去分詞)been	
+13	3	3-1-4	remind	v	〜に思い出させる			
+14	3	3-1-4	horror	n	恐ろしさ			
+15	3	3-1-5	reminder	n	思い出させるもの			
+16	3	3-1-5	mission	n	使命、任務			
+17	3	3-1-5	work	v	働く			
+18	3	3-1-5	peace	n	平和			
+19	3	3-1-6	anyone	prn	（疑問文で）誰か			
+20	3	3-1-6	question	n	質問			
+21	3	3-1-7	long	adv	長く			
+22	3	3-1-7	volunteer	n	ボランティア			
+23	3	3-1-8	since	conj	〜以来、〜から			
+24	3	3-2-2	daughter	n	娘			
+25	3	3-2-2	child	n	子ども			
+26	3	3-2-2	often	adv	しばしば、よく			
+27	3	3-2-2	ask	v	〜に尋ねる	〜に頼む		
+28	3	3-2-2	answer	v	〜に答える			
+29	3	3-2-3	realize	v	〜に気づく	〜を実現する	(過去形)realized	
+30	3	3-2-3	much	adv	(否定文で)あまり〜ない	たくさんの		
+31	3	3-2-4	so	conj	だから、それで			
+32	3	3-2-4	bombing	n	爆撃			
+33	3	3-2-5	determined	adj	固く決心して			
+34	3	3-2-5	especially	adv	特に			
+35	3	3-2-5	event	n	出来事			
+36	3	3-2-5	tragic	adj	悲劇的な			
+37	3	3-2-6	must	v	〜しなければならない			
+38	3	3-2-6	create	v	〜を創造する			
+39	3	3-2-6	good	adj	良い		(比較級)better	
+40	3	3-2-10	promote	v	〜を促進する			
+41	3	3-3-1	report	n	レポート、報告書			
+42	3	3-3-2	valuable	adj	貴重な			
+43	3	3-3-2	experience	n	経験			
+44	3	3-3-3	before	prep	〜の前に			
+45	3	3-3-3	teacher	n	先生			
+46	3	3-3-5	though	conj	〜だけれども			
+47	3	3-3-5	victim	n	犠牲者			
+48	3	3-3-6	survivor	n	生存者			
+49	3	3-3-6	get	v	〜になる		(進行形)getting	
+50	3	3-3-6	old	adj	年をとった	古い	(比較級)older	
+51	3	3-3-7	pass	v	〜を渡す、伝える			
+52	3	3-3-7	word	n	言葉			
+53	3	3-3-7	generation	n	世代			
+54	3	3-3-8	a lot	adv	たくさん			
+55	3	3-3-8	war	n	戦争			
+56	3	3-3-10	important	adj	重要な			
+57	3	3-3-10	past	n	過去			
+58	3	3-G-1	build	v	〜を築く	〜を建てる	(過去分詞)built	
+59	3	3-G-1	word	n	言葉			
+60	3	3-G-1	alone	adv	〜だけで	一人で		
+61	3	3-G-2	become	v	〜になる		(過去形)became	
+62	3	3-G-2	daughter	n	娘			
+63	3	3-G-2	question	n	質問			
+64	3	3-G-3	bear	v	(子)を産む		(過去分詞)born	
+65	3	3-G-3	raise	v	〜を育てる		(過去分詞)raised	
+66	3	3-G-3	learn	v	〜を学ぶ		(過去形)learned	
+67	3	3-G-3	A-bombing	n	原爆投下			
+68	3	3-G-3	school	n	学校			
+69	3	3-G-4	however	adv	しかしながら			
+70	3	3-G-4	ask	v	〜に尋ねる		(過去形)asked	
+71	3	3-G-4	find	v	〜だとわかる	〜を見つける	(過去形)found	
+72	3	3-G-4	answer	v	〜に答える			
+73	3	3-G-5	decide	v	〜を決める		(過去形)decided	
+74	3	3-G-5	again	adv	再び			
+75	3	3-G-6	want	v	〜したいと思う	〜が欲しい	(過去形)wanted	
+76	3	3-G-6	pass	v	〜を渡す、伝える			
+77	3	3-G-6	young	adj	若い		(比較級)younger	
+78	3	3-G-6	people	n	人々			
+79	3	3-G-7	survivor	n	生存者			
+80	3	3-G-7	so	adv	だから、それで			
+81	3	3-G-7	difficult	adj	難しい			
+82	3	3-G-7	talk	v	話す			
+83	3	3-G-7	without	prep	〜なしに			
+84	3	3-G-7	personal	adj	個人的な			
+85	3	3-G-7	experience	n	経験			
+86	3	3-G-8	then	adv	それから	その時		
+87	3	3-G-9	think	v	思う	考える	(過去形)thought	
+88	3	3-G-9	feel	v	〜を感じる		(過去形)felt	
+89	3	3-G-9	pain	n	痛み			
+90	3	3-G-9	own	adj	自分自身の			
+91	3	3-G-10	collect	v	〜を集める		(過去形)collected	
+92	3	3-G-10	money	n	お金			
+93	3	3-G-10	come	v	来る		(過去形)came	
+94	3	3-G-10	help	v	〜を助ける			
+95	3	3-G-11	action	n	行動			
+96	3	3-G-11	inspiration	n	インスピレーション、霊感			
+97	3	3-G-12	act	v	行動する、活動する		(-ing形)acting	
+98	3	3-G-13	introduce	v	〜を紹介する			
+99	3	3-G-13	take	v	(行動)をとる		(過去分詞)taken	

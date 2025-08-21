@@ -1,0 +1,154 @@
+No	unit	文番号	単語	品詞	意味1(文脈)	意味2(代表義)	意味3(その他)	分類
+1	1	1-H-1	what	adv	何を	何が		
+2	1	1-H-1	see	v	〜が見える	〜を見る、会う		
+3	1	1-H-1	in	prep	〜の中に	〜で		
+4	1	1-H-1	picture	n	写真	絵		
+5	1	1-H-1	safari	n	サファリ			
+6	1	1-H-1	gallery	n	ギャラリー	画廊		
+7	1	1-1-1	today	n	今日			
+8	1	1-1-1	want	v	〜したいと思う	〜が欲しい		
+9	1	1-1-1	tell	v	〜に話す	〜に教える		
+10	1	1-1-1	about	prep	〜について			
+11	1	1-1-1	country	n	国			
+12	1	1-1-1	republic	n	共和国			[固有名詞][国家名]
+13	1	1-1-2	here	adv	ここに			
+14	1	1-1-2	at	prep	〜で（場所）	〜に（時間）		
+15	1	1-1-2	southern	adj	南の			
+16	1	1-1-2	tip	n	先端	助言、チップ		
+17	1	1-1-2	African	adj	アフリカの			
+18	1	1-1-2	continent	n	大陸			
+19	1	1-1-3	call	v	〜と呼ぶ	電話する	(過去分詞)called	
+20	1	1-1-3	because	conj	〜なので	〜だから		
+21	1	1-1-3	of	prep	〜の			
+22	1	1-1-3	cultural	adj	文化の			
+23	1	1-1-3	diversity	n	多様性			
+24	1	1-1-3	rainbow	n	虹			
+25	1	1-1-3	nation	n	国家、国民			
+26	1	1-1-4	English	n	英語			[固有名詞]
+27	1	1-1-4	speak	v	話す	話される	(過去分詞)spoken	
+28	1	1-1-4	as	prep	〜として			
+29	1	1-1-4	official	adj	公式の	公の		
+30	1	1-1-4	language	n	言語			
+31	1	1-1-4	but	conj	しかし			
+32	1	1-1-4	have	v	〜を持っている	食べる		
+33	1	1-1-4	other	adj	他の			
+34	1	1-1-5	many	adj	たくさんの			
+35	1	1-1-5	national	adj	国の、国立の			
+36	1	1-1-5	park	n	公園			
+37	1	1-1-5	with	prep	〜と共に	〜がいる		
+38	1	1-1-5	diverse	adj	多様な			
+39	1	1-1-5	wildlife	n	野生生物			
+40	1	1-1-6	now	adv	今、さて			
+41	1	1-1-6	introduce	v	〜を紹介する			
+42	1	1-1-7	guide	n	ガイド	(v)案内する		
+43	1	1-1-8	will	v	〜だろう	〜するつもりだ		
+44	1	1-1-8	through	prep	〜を通り抜けて			
+45	1	1-1-8	time	n	時間	〜回		
+46	1	1-1-8	on	prep	〜の上で	〜で（手段）		
+47	1	1-1-8	internet	n	インターネット			
+48	1	1-2-2	welcome	adj	歓迎される			
+49	1	1-2-2	amazing	adj	驚くべき	すばらしい		
+50	1	1-2-2	virtual	adj	仮想の	事実上の		
+51	1	1-2-2	tour	n	ツアー	旅行、見学		
+52	1	1-2-3	first	adv	まず、最初に			
+53	1	1-2-3	let	v	〜させる			
+54	1	1-2-3	show	v	見せる	示す		
+55	1	1-2-3	something	n	何か、あるもの			
+56	1	1-2-3	interesting	adj	面白い	興味深い		
+57	1	1-2-5	can	v	〜できる	〜してもよい		
+58	1	1-2-5	guess	v	推測する			
+59	1	1-2-6	big	adj	大きい			
+60	1	1-2-7	elephant	n	象			
+61	1	1-2-7	footprint	n	足跡			
+62	1	1-2-8	help	v	助ける、手伝う			
+63	1	1-2-8	find	v	〜を見つける			
+64	1	1-2-9	may	v	〜かもしれない			
+65	1	1-2-9	near	adv	近くに			
+66	1	1-2-10	go	v	行く			
+67	1	1-2-10	look	v	見る			
+68	1	1-2-11	later	adv	後で			
+69	1	1-2-12	over	adv	向こうへ			
+70	1	1-2-12	there	adv	そこで、あそこで			
+71	1	1-2-14	yeah	adv	うん、はい			
+72	1	1-2-14	do	v	〜をする			
+73	1	1-2-15	well	adv	ええと、さて	上手に		
+74	1	1-2-15	bathe	v	水浴びする	入浴する	(-ing形)bathing	
+75	1	1-2-15	keep	v	〜を保つ	持ち続ける		
+76	1	1-2-15	cool	adj	涼しい	かっこいい		
+77	1	1-2-16	also	adv	〜もまた			
+78	1	1-2-16	mud	n	泥			
+79	1	1-2-17	like	v	〜するのが好きだ	〜が好きだ		
+80	1	1-2-17	themselves	prn	彼ら自身を			
+81	1	1-2-17	clean	adj	清潔な	(v)きれいにする		
+82	1	1-2-17	healthy	adj	健康な			
+83	1	1-2-17	by	prep	〜によって	〜のそばに		
+84	1	1-2-18	know	v	知っている			
+85	1	1-3-1	conservation	n	(環境)保護		活動	
+86	1	1-3-3	job	n	仕事			
+87	1	1-3-4	monitor	v	監視する			
+88	1	1-3-4	life	n	生活	生命、人生	(複数形)lives	
+89	1	1-3-4	protect	v	〜を保護する	〜を守る		
+90	1	1-3-5	illegal	adj	違法な、不法の			
+91	1	1-3-5	hunter	n	狩人、ハンター			
+92	1	1-3-5	kill	v	〜を殺す			
+93	1	1-3-5	rhino	n	サイ			
+94	1	1-3-5	horn	n	角			
+95	1	1-3-5	for	prep	〜のために（目的）	〜のために（理由）		
+96	1	1-3-6	terrible	adj	ひどい	恐ろしい		
+97	1	1-3-7	safely	adv	安全に			
+98	1	1-3-7	so	conj	それで	とても		
+99	1	1-3-8	message	n	メッセージ、伝言			
+100	1	1-3-9	savanna	n	サバンナ			
+101	1	1-3-9	ecosystem	n	生態系			
+102	1	1-3-10	all	adj	すべての			
+103	1	1-3-10	living	adj	生きている			
+104	1	1-3-10	thing	n	もの、こと			
+105	1	1-3-10	connect	v	〜をつなぐ	〜を関係づける	(過去分詞)connected	
+106	1	1-3-10	circle	n	円、輪			
+107	1	1-3-11	each	prn	それぞれ			
+108	1	1-3-11	depend	v	頼る、依存する			
+109	1	1-3-11	another	prn	別のもの			
+110	1	1-3-11	live	v	生きる	住む		
+111	1	1-3-12	human	n	人間			
+112	1	1-3-12	should	v	〜すべきだ			
+113	1	1-3-12	respect	v	〜を尊敬する	〜を尊重する		
+114	1	1-G-1	wild	adj	野生の			
+115	1	1-G-1	panda	n	パンダ			
+116	1	1-G-1	population	n	個体数	人口		
+117	1	1-G-2	endangered	adj	絶滅の危機に瀕した			
+118	1	1-G-3	great	adj	素晴らしい	大きい		
+119	1	1-G-3	news	n	知らせ、ニュース			
+120	1	1-G-4	remove	v	〜を取り除く			(過去分詞)removed
+121	1	1-G-4	from	prep	〜から			
+122	1	1-G-4	species	n	(生物の)種			
+123	1	1-G-4	list	n	リスト、一覧表			
+124	1	1-G-5	hunting	n	狩り			
+125	1	1-G-5	destruction	n	破壊			
+126	1	1-G-5	bamboo	n	竹			
+127	1	1-G-5	forest	n	森			
+128	1	1-G-5	become	v	〜になる			
+129	1	1-G-6	people	n	人々			
+130	1	1-G-6	situation	n	状況			
+131	1	1-G-6	serious	adj	深刻な	まじめな		
+132	1	1-G-6	start	v	〜を始める			
+133	1	1-G-6	work	v	働く、取り組む			
+134	1	1-G-6	hard	adv	熱心に	難しい		
+135	1	1-G-6	breed	v	〜を繁殖させる	〜を飼育する		
+136	1	1-G-7	effort	n	努力			
+137	1	1-G-7	say	v	言う			(過去分詞)said
+138	1	1-G-7	remain	v	残っている	〜のままである		
+139	1	1-G-8	however	adv	しかしながら			
+140	1	1-G-8	future	n	未来			
+141	1	1-G-8	yet	adv	まだ			
+142	1	1-G-8	secure	adj	安全な	安心な		
+143	1	1-G-9	still	adv	まだ、今もなお			
+144	1	1-G-10	smart	adj	賢い			
+145	1	1-G-10	technology	n	科学技術、テクノロジー			
+146	1	1-G-10	system	n	システム、制度			
+147	1	1-G-10	habitat	n	生息地			
+148	1	1-G-11	wildfire	n	山火事			
+149	1	1-G-11	deep	adj	深い			
+150	1	1-G-11	sky	n	空			
+151	1	1-G-12	success	n	成功			
+152	1	1-G-12	give	v	〜に与える			
+153	1	1-G-12	hope	n	希望			

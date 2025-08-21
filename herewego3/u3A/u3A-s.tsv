@@ -1,0 +1,89 @@
+No	unit	文番号	英文	日訳	キー文法1	キー文法2	キー文法3	備考
+1	3A	AG-1	The dome has been like this for about 80 years.	ドームは約80年間この状態です。	現在完了形(継続)	for(期間)		
+2	3A	AG-2	Look! The bus hasn't left yet.	見て！バスはまだ出発していません。	現在完了形(完了)	yet(否定文)		
+3	3A	AG-3	I've never seen such a beautiful sunset.	私はこんなに美しい夕日を一度も見たことがありません。	現在完了形(経験)	never	such a ~	
+4	3A	AG-4	I've been thinking about our trip to Hiroshima.	私は広島への旅行についてずっと考えています。	現在完了進行形			
+5	3A	AG-5	I have seen this movie twice.	私はこの映画を2回見たことがあります。	現在完了形(経験)	twice		
+6	3A	AG-6	Have you ever seen that movie?	あなたはその映画を今までに見たことがありますか？	現在完了形(経験)	ever		
+7	3A	AG-7	Yes, I have. / No, I haven't. / No, never.	はい、あります。／いいえ、ありません。／いいえ、一度もありません。	(応答)			
+8	3A	AG-8	I have never seen that movie.	私はその映画を一度も見たことがありません。	現在完了形(経験)	never		
+9	3A	AG-9	Kota has known Eri for 12 years.	コウタはエリと12年間知り合いです。	現在完了形(継続)	for(期間)		
+10	3A	AG-10	How long has Kota known Eri?	コウタはどのくらいの間エリと知り合いですか？	現在完了形(継続)	How long ~?		
+11	3A	AG-11	For 12 years. / Since he was three.	12年間です。／彼が3歳の時から。	for(期間)	since(起点)		
+12	3A	AG-12	It has been raining for three days.	3日間ずっと雨が降っています。	現在完了進行形	for(期間)		
+13	3A	AG-13	How long has it been raining?	どのくらいの間雨が降っていますか？	現在完了進行形	How long ~?		
+14	3A	AG-14	For three days. / Since yesterday morning.	3日間です。／昨日の朝から。	for(期間)	since(起点)		
+15	3A	AG-15	I have already finished my English homework.	私はすでに英語の宿題を終えました。	現在完了形(完了)	already		
+16	3A	AG-16	Have you finished your math homework yet?	あなたはもう数学の宿題を終えましたか？	現在完了形(完了)	yet(疑問文)		
+17	3A	AG-17	Yes, I have. / No, I haven't. / No, not yet.	はい、終えました。／いいえ、まだです。／いいえ、まだです。	(応答)			
+18	3A	AG-18	I have not finished my math homework yet.	私はまだ数学の宿題を終えていません。	現在完了形(完了)	not yet		
+19	3A	AG-19	Tina left her camera on the bus yesterday.	ティナは昨日バスにカメラを置き忘れました。	過去形			
+20	3A	AG-20	Tina has left her camera on the bus.	ティナはバスにカメラを置き忘れてしまいました。（そして今もない）	現在完了形(結果)			
+21	3A	LR1-1	On the morning of July 17, 1940, Sugihara Chiune was in his house in Kaunas, Lithuania.	1940年7月17日の朝、杉原千畝はリトアニアのカウナスにある彼の家にいました。	on (日付)	in (場所)		
+22	3A	LR1-2	He looked outside and saw many people around his house.	彼は外を見て、家の周りに多くの人々がいるのを見ました。	and			
+23	3A	LR1-3	“Who are they?" asked his wife, Yukiko.	「彼らは誰ですか？」と彼の妻、幸子は尋ねました。	疑問詞(Who)			
+24	3A	LR1-4	“People from Poland. They're Jewish. They escaped from the Nazis," he answered.	「ポーランドから来た人々です。彼らはユダヤ人です。ナチスから逃れてきたのです」と彼は答えました。	escape from ~			
+25	3A	LR1-5	They asked Sugihara to issue visas.	彼らは杉原にビザを発給するように頼みました。	ask A to do B			
+26	3A	LR1-6	They wanted to go to safe countries.	彼らは安全な国へ行きたがっていました。	want to do			
+27	3A	LR1-7	To get there, they needed to pass through Japan.	そこへ行くために、彼らは日本を通過する必要がありました。	to不定詞(副詞的用法)	need to do	pass through ~	
+28	3A	LR1-8	“I must help these people,” Sugihara thought.	「私はこの人々を助けなければならない」と杉原は思いました。	must			
+29	3A	LR1-9	The next day, there were more people around his house.	次の日、彼の家の周りにはさらに多くの人々がいました。	There were ~			
+30	3A	LR1-10	He asked for permission to issue visas, but it was refused by the Foreign Ministry.	彼はビザを発給する許可を求めましたが、それは外務省によって拒否されました。	ask for ~	受動態		
+31	3A	LR1-11	He tried again but received the same answer.	彼は再び試みましたが、同じ答えを受け取りました。	but			
+32	3A	LR1-12	After 10 days, Sugihara finally decided to help them.	10日後、杉原はついに彼らを助けることを決心しました。	decide to do			
+33	3A	LR1-13	He told Yukiko that he was going to issue visas to the people.	彼は幸子に、人々にビザを発給するつもりだと伝えました。	tell O that S V	be going to do		
+34	3A	LR1-14	Yukiko knew the risks, but she agreed.	幸子はその危険性を知っていましたが、彼女は同意しました。	but			
+35	3A	LR1-15	“I'll support you,” she said to him.	「私があなたを支えます」と彼女は彼に言いました。	will (I'll)			
+36	3A	LR1-16	On July 29, he said to the people around his house, “You will all get your visas!"	7月29日、彼は家の周りの人々に言いました、「あなた方は全員ビザを手に入れるでしょう！」	will			
+37	3A	LR1-17	There was a short silence, then a big cry of joy.	短い沈黙があり、それから大きな歓喜の叫び声がありました。	There was ~			
+38	3A	LR1-18	For the next 30 days, Sugihara wrote visas day and night.	次の30日間、杉原は昼も夜もビザを書き続けました。	day and night			
+39	3A	LR1-19	He saw each family and wrote their names by hand.	彼はそれぞれの家族に会い、彼らの名前を手で書きました。	by hand			
+40	3A	LR1-20	He smiled and said, "The world is like a big wheel.	彼は微笑んで言いました、「世界は大きな車輪のようなものだ。	like (前置詞)			
+41	3A	LR1-21	We're all connected.	我々は皆つながっている。	受動態			
+42	3A	LR1-22	We shouldn't fight each other.	互いに争うべきではない。	shouldn't	each other		
+43	3A	LR1-23	We should join hands.	手を取り合うべきだ。	should	join hands		
+44	3A	LR1-24	Take care and good luck!"	気をつけて、幸運を！」	命令文			
+45	3A	LR1-25	On August 27, he received a telegram from the Ministry, "Close the office now and go to Berlin."	8月27日、彼は省から電報を受け取りました、「今すぐオフィスを閉鎖し、ベルリンへ行け」。	命令文			
+46	3A	LR1-26	On September 4, Sugihara and his family had to leave for Berlin.	9月4日、杉原と彼の家族はベルリンへ出発しなければなりませんでした。	have to do			
+47	3A	LR1-27	Some people followed them to the platform.	何人かの人々がプラットフォームまで彼らについてきました。				
+48	3A	LR1-28	He continued to write visas even as he got on the train.	彼は電車に乗るときでさえ、ビザを書き続けました。	continue to do	even as ~	get on ~	
+49	3A	LR1-29	He handed them out through the window.	彼は窓からそれらを手渡しました。	hand out ~			
+50	3A	LR1-30	The bell rang and the train started to move.	ベルが鳴り、電車が動き始めました。	start to do			
+51	3A	LR1-31	With tears in his eyes, Sugihara said, "I cannot write anymore.	目に涙を浮かべながら、杉原は言いました、「もう書けません。	with A in B	cannot ~ anymore		
+52	3A	LR1-32	Forgive me.	許してください。	命令文			
+53	3A	LR1-33	I will pray for your safety."	あなた方の安全を祈ります」。	will			
+54	3A	LR1-34	One of them cried, "Thank you, Mr. Sugihara.	彼らの一人が叫びました、「ありがとう、杉原さん。	One of ~			
+55	3A	LR1-35	We will never forget you."	私たちは決してあなたを忘れません」。	will never ~			
+56	3A	LR1-36	The war ended in 1945.	戦争は1945年に終わりました。				
+57	3A	LR1-37	Sugihara returned to Japan and started working as a trader.	杉原は日本に戻り、貿易商として働き始めました。	start -ing			
+58	3A	LR1-38	Years later, in 1968, he received a phone call.	数年後の1968年、彼は一本の電話を受けました。				
+59	3A	LR1-39	It was from Mr. Nishri, an Israeli diplomat.	それはイスラエルの外交官、ニシュリ氏からでした。				
+60	3A	LR1-40	Mr. Nishri met Sugihara and took out an old piece of paper.	ニシュリ氏は杉原に会い、古い一枚の紙を取り出しました。	take out ~	a piece of ~		
+61	3A	LR1-41	It was a Sugihara visa.	それは杉原のビザでした。				
+62	3A	LR1-42	You won't remember me, but I have never forgotten you, he said.	「あなたは私を覚えていないでしょうが、私はあなたを決して忘れたことはありません」と彼は言いました。	won't (will not)	現在完了形(経験)		
+63	3A	LR1-43	Sugihara issued 2,139 visas to Jewish people in Lithuania.	杉原はリトアニアでユダヤの人々に2,139通のビザを発給しました。				
+64	3A	LR1-44	His actions saved more than 6,000 lives in total.	彼の行動は、合計で6,000以上の命を救いました。	more than ~			
+65	3A	YC-1	We need school uniforms.	私たちには制服が必要です。				
+66	3A	YC-2	Hi. I'm Tamara. I'm a junior high school student in the U.S.	こんにちは。タマラです。私はアメリカの中学生です。	be動詞(am)			
+67	3A	YC-3	I've seen Japanese school uniforms on the internet.	私はインターネットで日本の制服を見たことがあります。	現在完了形(経験)			
+68	3A	YC-4	They're really cute!	それらは本当にかわいいです！	be動詞(are)			
+69	3A	YC-5	I want a uniform like that for my school life.	私は学校生活のためにそのような制服が欲しいです。				
+70	3A	YC-6	They're convenient to wear every day.	それらは毎日着るのに便利です。	to不定詞(副詞的用法)			
+71	3A	YC-7	They save time, too.	それらは時間も節約してくれます。	too			
+72	3A	YC-8	Sometimes I like to choose my own clothes, but I think it's better for all of us to wear uniforms at school.	時々私は自分の服を選ぶのが好きですが、学校では私たち全員が制服を着る方が良いと思います。	like to do	It is ~ for A to do B		
+73	3A	YC-9	It's an attractive idea.	それは魅力的な考えです。	be動詞(is)			
+74	3A	YC-10	What do you think?	あなたはどう思いますか？	(意見を求める表現)			
+75	3A	YC-11	We need nap time.	私たちには昼寝の時間が必要です。				
+76	3A	YC-12	Hi. I'm Koji. I moved to Taiwan when I was ten years old.	こんにちは。コウジです。私は10歳の時に台湾に引っ越しました。	when (接続詞)			
+77	3A	YC-13	I've been here since then.	私はそれ以来ずっとここにいます。	現在完了形(継続)	since then		
+78	3A	YC-14	I've found some differences between schools in Taiwan and schools in Japan.	私は台湾の学校と日本の学校の間にいくつか違いを見つけました。	現在完了形(結果)	between A and B		
+79	3A	YC-15	For example, in Taiwan, the students have a short sleep after lunch.	例えば、台湾では生徒たちは昼食後に短い睡眠をとります。	for example			
+80	3A	YC-16	They have to sleep about 15 to 20 minutes at their desk.	彼らは机で約15分から20分眠らなければなりません。	have to do			
+81	3A	YC-17	It's called “nap time."	それは「昼寝時間」と呼ばれています。	受動態	call A B (の受動態)		
+82	3A	YC-18	Our teacher tells us that nap time is important because it's really good for our health.	私たちの先生は、昼寝時間は私たちの健康に本当に良いので重要だと私たちに言います。	tell O that S V	be good for ~		
+83	3A	YC-19	I agree with him.	私は彼に賛成です。	agree with ~			
+84	3A	YC-20	Nap time helps me relax.	昼寝時間は私がリラックスするのを助けてくれます。	help O do			
+85	3A	YC-21	I think Japanese students should have nap time after lunch, too.	日本の生徒も昼食後に昼寝時間を持つべきだと思います。	should			
+86	3A	YC-22	However, some of my friends are against nap time because they want to play sports, read books, or use the internet.	しかし、私の友達の中には、スポーツをしたり、本を読んだり、インターネットを使いたかったりするので、昼寝時間に反対の人もいます。	be against ~	want to do		
+87	3A	YC-23	They think they don't need nap time.	彼らは昼寝時間は必要ないと思っています。	think (that) S V			
+88	3A	YC-24	What do you think?	あなたはどう思いますか？	(意見を求める表現)			
